@@ -1,1 +1,1 @@
-print("infni in python")
+print("linux")
